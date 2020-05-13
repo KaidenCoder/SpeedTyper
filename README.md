@@ -1,5 +1,5 @@
 # SpeedTyperJS
-Type as fast as you can and stay safe. [Play here](https://kurosakicoder.github.io/SpeedTyperJS/)
+Type as fast as you can and stay safe. [Play here](https://kurosakicoder.github.io/SpeedTyper/)
 
 ## Project Info
 This project contains all the files so you just need to clone and run the project.
