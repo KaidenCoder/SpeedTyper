@@ -46,7 +46,7 @@ const words = [
 let randomWord;
 
 // Init score
-let score = 5;
+let score = 15;
 
 // Init time
 let time = 20;
